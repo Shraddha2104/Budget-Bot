@@ -1,5 +1,12 @@
 # Budget-Bot
-Dialogflow, Python, NLP, Web development
+> It was developed at the Money-control Hackabot Challenge(BKC-Mumbai).
+> We stood in top 10 amongst all the teams.
 
-The project is live at budgetbot.ml
+
+## Features
+
+* Built a interactive bot that simplifies the budget for consumers by answering queries posted by users in natural English language.
+* Entity extraction using NLP
+* Bot answers from the knowledge base repository of 600+ articles prepared by the moneycontrol editorial team.
+
 
