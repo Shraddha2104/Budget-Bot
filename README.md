@@ -10,4 +10,16 @@
 * Entity extraction using NLP
 * Bot answers from the knowledge base repository of 600+ articles prepared by the moneycontrol editorial team.
 
+## Screenshots
 
+### Integration with different social media platforms
+![Screenshot](1.png)
+
+### Features
+![Screenshot](2.png)
+
+### Budget-Bot 
+![Screenshot](3.png)
+
+### Live news update
+![Screenshot](4.png)
